@@ -1,0 +1,8 @@
+date_id
+date
+day
+weekday
+weekday_name
+month
+month_name
+year
